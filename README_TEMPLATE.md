@@ -483,35 +483,20 @@ erDiagram
 
 ---
 
-## 12. Future Enhancements
+## 12. Future Enhancement 
 
-<!--
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Automate the monthly data pull from the POS export folder using
-      a scheduled Python script, replacing the current manual process."
-  ✅ "Expand the return rate analysis to include carrier-level data,
-      which was unavailable in this dataset but exists in the logistics system."
+-  [Enhancement 1 - integrate real time sales data to monitor business performance though a live dashboard]
+-  [Enhancement 2 - Build a recommendation system to suggest product based on customer purchase history]
+-  [Enhancement 3 -  Analyze customer reviews and feedback using sentiments analysis to understand customer satisfaction]
 
-  WHAT TO AVOID:
-  ❌ "Add a machine learning model."
-     (Vague, and disconnected from the actual findings of this project.)
-  ❌ Listing aspirational features that don't follow logically from the work.
--->
-
-- [ ] [Enhancement 1 - specific and traceable to a real gap in this project]
-- [ ] [Enhancement 2]
-- [ ] [Enhancement 3]
-- [ ] [Enhancement 4]
 
 ---
 
-## 13. Deliverables
+## 13. Conclusion
 
-| Deliverable | Description | Location |
-|-------------|-------------|----------|
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
-| [Name] | [What it contains] | [`/path/to/file`] |
+this project analyzed ecommerce sales data using excel, SQL, and power bi to understand business performance and customer purchasing patterns the data was cleaned, transformed, and analyzed to identify sales
+trends, product performance, regional performance, profitablility and customer behaviour. interactive dashboard and key performance metrics were created to support data-driven decision-making.
+the insights and recommendations from this analysis can help improve slaes performance, optimize product strategy, and increase overall business profitablility.
 
 ---
 
