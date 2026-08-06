@@ -32,7 +32,7 @@
 ---
 
 ## 1. Project Overview
-<|-- this project Analyze an ecommerce sales dataset to evaluate sales performance, customer purchasing behaviour, and product Profitablility. the Project Involves data cleaning using excel,sql and 
+this project Analyze an ecommerce sales dataset to evaluate sales performance, customer purchasing behaviour, and product Profitablility. the Project Involves data cleaning using excel,sql and 
 the development of a interactive power bi dashboard. the analysis focuses on identify sales trends, top performing products , customer segment, payment methods and regional performance. 
 
 ---
