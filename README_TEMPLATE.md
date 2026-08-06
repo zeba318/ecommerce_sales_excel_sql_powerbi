@@ -517,14 +517,13 @@ erDiagram
 
 ## 14. Author
 
-**[Your Name]**
-[Your role or title - current or target]
+**[Zeba Hajera]**
+[Data Analyst ]
 
 - 🔗 [LinkedIn URL]
 - 💼 [Portfolio or GitHub profile URL]
-- 📧 [Email - optional]
+- 📧 [zebahajera715@gmail.com]
 
 ---
 
-*Last updated: [Month YYYY]*
-*If this template helped you, consider starring the repository.*
+
