@@ -16,18 +16,17 @@
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
-3. [Project Scope & Tools](#3-project-scope--tools)
-
-5. [Project Workflow](#5-Project-workflow)
-6. [Data Model & Schema](#6-data-model--schema)
-7. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
-8. [Analysis & Metrics](#8-analysis--metrics)
-9. [Key Insights](#9-key-insights)
-10. [Recommendations](#10-recommendations)
-11. [Assumptions & Limitations](#11-assumptions--limitations)
-12. [Future Enhancements](#12-future-enhancements)
-13. [Conclusion](#13-Conclusion)
-14. [Author](#14-author)
+3. [Dataset Info & Tools](#3-Dataset-Info--tools)
+4. [Project Workflow](#5-Project-workflow)
+5. [Data Model & Schema](#6-data-model--schema)
+6. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
+7. [Analysis & Metrics](#8-analysis--metrics)
+8. [Key Insights](#9-key-insights)
+9. [Recommendations](#10-recommendations)
+10. [Assumptions & Limitations](#11-assumptions--limitations)
+11. [Future Enhancements](#12-future-enhancements)
+12. [Conclusion](#13-Conclusion)
+13. [Author](#14-author)
 
 ---
 
@@ -41,7 +40,7 @@ the development of a interactive power bi dashboard. the analysis focuses on ide
 
   the objective is to generate actionable business insights and recommendations that help improve revenue, profitability and overall business Decision making.
 
-## 3. Project Scope & Tools
+## 3. Dataset Info & Tools
 
 ### Scope
 
