@@ -127,17 +127,10 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| `[field_1]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_2]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[field_3]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
+| `[order_id]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
+| `[customer_id]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
+| `[product_id]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
 
-> **Row count (approx.):** [X rows]
-> **Date range:** [Start] – [End]
-> **Key join / relationship:** [e.g., `orders.customer_id` → `customers.id`]
-
-*Add additional table blocks as needed for multi-table projects.*
-
----
 
 
 ## 8. Analysis & Metrics
