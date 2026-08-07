@@ -43,8 +43,8 @@ the development of a interactive power bi dashboard. the analysis focuses on ide
 
 Source: Kaggle
 Name: ecommerce
-No. of Rows:   
-No. of Columns:
+No. of Rows: 34502   
+No. of Columns: 16
 Types: Transactional sales data containing customer details, Product info, order details, pricing, discount, payment mode, shipping info and regional sales.
 
 ### Tools & Technologies
@@ -102,10 +102,6 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 ## 6. Data Model & Schema
 
-<!--
-  Define your fields so that someone reading your analysis can follow along
-  without digging through your code.
-
   WHAT GOOD LOOKS LIKE (one row example):
   | transaction_id | string | Unique identifier per sales transaction | TXN-00482 |
   | return_flag    | boolean | Whether the transaction included a return | TRUE |
@@ -115,10 +111,6 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
   ❌ Skipping this section because "the field names are self-explanatory."
      They're not. Not to a reviewer. Not to you in six months.
 
-  📌 FOR SQL PROJECTS: If you have multiple tables, create one block per table.
-     Describe join keys and relationships here. Your ERD (Section 7) will
-     visualise what this section describes in text.
-
   📌 FOR NON-SQL PROJECTS: Describe the shape of your dataset informally
      if a formal schema doesn't apply. Even one paragraph is more helpful than nothing.
 -->
@@ -127,9 +119,17 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| `[order_id]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[customer_id]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
-| `[product_id]` | [string / int / date / float / boolean] | [What this field represents] | [Non-sensitive example] |
+| `[order_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
+| `[customer_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
+| `[product_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
+| 
+|
+|
+
+
+
+
+
 
 
 
