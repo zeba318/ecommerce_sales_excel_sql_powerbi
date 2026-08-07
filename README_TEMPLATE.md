@@ -1,5 +1,5 @@
 # [Project Title]
-> * Ecommerce Sales Analysis *
+  Ecommerce Sales Analysis 
 
 ---
 
@@ -371,18 +371,12 @@ erDiagram
 ---
 
 ## 10. Recommendations
-
-<!--
-  1. Increa
-
-| Priority | Recommendation | Based On | Suggested Owner |
-|----------|---------------|----------|-----------------|
-| High | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Medium | [Specific, actionable step] | [Insight it comes from] | [Who should act] |
-| Low | [Exploratory or longer-term suggestion] | [Insight it comes from] | [Who should act] |
-
----
-
+ 
+ 1.Increase inventory in high selling categories and product
+ 2.Give offers on low selling products
+ 3.Run marketing campaign to increase sales 
+ 4.Focus on these regions where sales in low
+ 
 ## 11. Assumptions & Limitations
 
 <!--
@@ -390,14 +384,7 @@ erDiagram
   Assumption: "Transaction records were assumed to be complete for all five regions.
                No validation was performed against source system record counts."
   Limitation: "The analysis cannot distinguish between returns initiated by
-               the customer vs. returns initiated by the business (e.g., recalls).
-               If business-initiated returns are concentrated in Region A, the
-               return rate finding may reflect a policy decision, not a quality issue."
-
-  WHAT TO AVOID:
-  ❌ Leaving this section blank or writing "None known."
-     Every project has limitations. Documenting them is a sign of
-     analytical maturity - not a confession of failure.
+               the customer vs. returns initiated by the business (e.g., rec
 -->
 
 ### Assumptions
@@ -437,8 +424,8 @@ the insights and recommendations from this analysis can help improve slaes perfo
 **[Zeba Hajera]**
 [Data Analyst ]
 
-- 🔗 [LinkedIn URL]
-- 💼 [Portfolio or GitHub profile URL]
+- 🔗 [hhttps://www.linkedin.com/in/zeba-hajera-3a437a366?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 💼 [ ]
 - 📧 [zebahajera715@gmail.com]
 
 ---
