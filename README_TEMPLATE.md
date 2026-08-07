@@ -296,46 +296,20 @@ erDiagram
 
 ## 8. Analysis & Metrics
 
-<!--
-  Explain what you measured and how - before you share what you found.
-
-  WHAT GOOD LOOKS LIKE:
-  Metric: "Customer Return Rate"
-  Definition: "Number of transactions flagged as returns divided by total
-               transactions, calculated at product-category and regional grain."
-  Why It Matters: "Return rate - not sales volume - was hypothesised to
-                  explain regional revenue gaps. This metric tests that hypothesis."
-
-  WHAT TO AVOID:
-  ❌ Defining a metric only in code: SUM(returns) / COUNT(transaction_id)
-     That's an implementation. Write the plain-language definition here.
-     Both belong in your project - the definition in the README,
-     the implementation in the code.
--->
-
 ### Analytical Approach
 
-[Describe how you approached the analysis. Were you exploring patterns? Testing a hypothesis? Building and validating a pipeline? Be honest about your method - exploratory work is valid, just call it that.]
+1.[Analyzed overall sales and Revenue trends]
+2.[Identified Top Selling product Categories]
+3.[Compared Sales performance across different Region]
+4.[Identify Monthly and yearly sales trends]
+5.[Examined monthly and yearly sales trends_]
+6.[Compared payment methods and their usage_]
 
 ### Key Metrics Defined
 
-| Metric | Plain-Language Definition | Why It Matters |
-|--------|--------------------------|----------------|
-| `[Metric 1]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 2]` | [What it measures, in one sentence] | [What decision or question it answers] |
-| `[Metric 3]` | [What it measures, in one sentence] | [What decision or question it answers] |
-
-### Methods Used
-
-- [e.g., Descriptive statistics - distribution, central tendency, outlier detection]
-- [e.g., Trend analysis across [time period]]
-- [e.g., Segmentation / group comparison by [dimension]]
-- [e.g., Correlation analysis between [variable A] and [variable B]]
-- [e.g., SQL window functions for [specific aggregation]]
-- [e.g., Custom aggregation or transformation logic in [tool]]
-
----
-
+- [Total Revenue, Profit Margin, Total Sales by Region, Monthly Sales Trend, Yearly Sales trend, Monthly profit, Top 5 Category, High Revenue product, Quantity ordered, Total amount by Category,
+- Max Delivery Day,Highest Payment Mode,Which day customers Orderes the Most]
+  
 ## 9. Key Insights
 
 **Insight 1: [Total sales showed increasing in trend]
