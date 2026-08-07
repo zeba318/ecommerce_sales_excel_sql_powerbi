@@ -338,37 +338,18 @@ erDiagram
 
 ## 9. Key Insights
 
-<!--
-  Findings + implications. Not just what happened - what it means.
+**Insight 1: [Total sales showed increasing in trend]
 
-  WHAT GOOD LOOKS LIKE:
-  ✅ "Return rates, not sales volume, explain Region A's underperformance.
-      Region A's return rate on home goods was 34% - more than double the
-      company average. Revenue was not lost at the point of sale; it was
-      lost post-sale through refunds. This points to a fulfilment or
-      product quality issue specific to that region, not a demand problem."
+**Insight 2: [A few category and product generating high Revenue]
 
-  WHAT TO AVOID:
-  ❌ "Region A had lower revenue than other regions in Q4."
-     (That's an observation. It describes what happened.
-      An insight says what it means and where to look next.)
+**Insight 3: [Monthly Sales varied, Indicating seasonal demand patterns.]
 
-  Aim for 3–6 insights. Quality over quantity.
--->
+**Insight 4 [Certain Payment methods were preferred by most customers.]
 
-**Insight 1: [Short descriptive headline]**
-[What you found + what it suggests. One short paragraph.]
+**Insight 5 [Some regions Generating low Revenue.]
 
-**Insight 2: [Short descriptive headline]**
-[What you found + what it suggests.]
+**Insight 6 [Small Group of Repeated customers Contributed large portion of Total Revenue__]
 
-**Insight 3: [Short descriptive headline]**
-[What you found + what it suggests.]
-
-**Insight 4 (if applicable): [Short descriptive headline]**
-[What you found + what it suggests.]
-
----
 
 ## 10. Recommendations
  
