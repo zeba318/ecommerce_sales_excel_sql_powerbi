@@ -7,7 +7,7 @@
 
 - [ ] SQL Analysis / Querying
 - [ ] Dashboard / Data Visualization
-- [ ] Data Cleaning / Wrangling
+- [ ] Data Cleaning 
 - [ ] End-to-End project
       
 
@@ -18,8 +18,7 @@
 2. [Objectives](#2-objectives)
 3. [Dataset Info & Tools](#3-Dataset-Info--tools)
 4. [Project Workflow](#5-Project-workflow)
-5. [Data Model & Schema](#6-data-model--schema)
-6. [ERD - Entity Relationship Diagram](#7-erd--entity-relationship-diagram) *(SQL projects)*
+5. [Data Model & Schema](#6-data-model--schema)   
 7. [Analysis & Metrics](#8-analysis--metrics)
 8. [Key Insights](#9-key-insights)
 9. [Recommendations](#10-recommendations)
