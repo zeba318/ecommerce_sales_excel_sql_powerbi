@@ -17,15 +17,15 @@
 1. [Project Overview](#1-project-overview)
 2. [Objectives](#2-objectives)
 3. [Dataset Info & Tools](#3-Dataset-Info--tools)
-4. [Project Workflow](#5-Project-workflow)
-5. [Data Model & Schema](#6-data-model--schema)   
-7. [Analysis & Metrics](#8-analysis--metrics)
-8. [Key Insights](#9-key-insights)
-9. [Recommendations](#10-recommendations)
-10. [Assumptions & Limitations](#11-assumptions--limitations)
-11. [Future Enhancements](#12-future-enhancements)
-12. [Conclusion](#13-Conclusion)
-13. [Author](#14-author)
+4. [Repository Structure](34-Repository-Structure)
+5. [Project Workflow](#4-Project-workflow)
+6. [Data Model & Schema](#5-data-model--schema)   
+7. [Analysis & Metrics](#6-analysis--metrics)
+8. [Key Insights](#7-key-insights)
+9. [Recommendations](#8-recommendations)
+10. [Future Enhancements](#9-future-enhancements)
+11. [Conclusion](#10-Conclusion)
+12. [Author](#11-author)
 
 ---
 
@@ -58,37 +58,24 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 ## 4. Repository Structure
 
-```
+
 [project-root]/
 │
 ├── data/
 │   ├── raw/                  # Original, unmodified source data - never edited
-│   ├── processed/            # Cleaned and transformed data
-│   └── external/             # Reference data, lookup tables, third-party files
-│
-├── notebooks/                # Jupyter, R Markdown, or Colab notebooks
-│
-├── scripts/                  # Reusable .py, .R, or .sh processing files
+│   ├── processed/            # Cleaned and transformed data            
 │
 ├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
-│   ├── exploratory/          # Ad-hoc or investigative queries
-│   ├── transformations/      # Cleaning and reshaping logic
-│   └── final/                # Production-ready or presentation queries
+│   ├── exploratory/ 
+│   ├── transformations/ 
+│   └── final/                #  presentation queries
 │
-├── reports/                  # Final outputs: PDFs, slide decks, Word docs
+├── reports/                  # Final outputs: PDFs, Word docs
 │
-├── visuals/                  # Exported charts, dashboard screenshots, ERD diagrams
+├── visuals/                  # Exported charts, dashboard screenshots 
 │
-├── docs/                     # Data dictionaries, schema notes, reference material
-│
-├── project_metadata.yml      # Machine-readable metadata (optional)
-└── README.md                 # You are here
-```
+└── README.md                 # Project
 
-> ⚠️ *Delete folders you didn't use. An empty folder is worse than no folder.*
-> SQL-heavy projects: keep `queries/`. Analysis-only projects: keep `notebooks/`. Both? Keep both.
-
----
 
 ## 5. Project Workflow
   
@@ -104,16 +91,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
   WHAT GOOD LOOKS LIKE (one row example):
   | transaction_id | string | Unique identifier per sales transaction | TXN-00482 |
-  | return_flag    | boolean | Whether the transaction included a return | TRUE |
-  | region_code    | string | Two-letter identifier for store region | "NE" |
-
-  WHAT TO AVOID:
-  ❌ Skipping this section because "the field names are self-explanatory."
-     They're not. Not to a reviewer. Not to you in six months.
-
-  📌 FOR NON-SQL PROJECTS: Describe the shape of your dataset informally
-     if a formal schema doesn't apply. Even one paragraph is more helpful than nothing.
--->
+  
 
 ### Dataset / Table: `[name]`
 
@@ -133,7 +111,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 
 
-## 8. Analysis & Metrics
+## 7. Analysis & Metrics
 
 ### Analytical Approach
 
@@ -149,7 +127,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 - [Total Revenue, Profit Margin, Total Sales by Region, Monthly Sales Trend, Yearly Sales trend, Monthly profit, Top 5 Category, High Revenue product, Quantity ordered, Total amount by Category,
 - Max Delivery Day,Highest Payment Mode,Which day customers Orderes the Most]
   
-## 9. Key Insights
+## 8. Key Insights
 
 **Insight 1: [Total sales showed increasing in trend]
 
@@ -164,39 +142,16 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 **Insight 6 [Small Group of Repeated customers Contributed large portion of Total Revenue__]
 
 
-## 10. Recommendations
+## 9. Recommendations
  
  1.Increase inventory in high selling categories and product
  2.Give offers on low selling products
  3.Run marketing campaign to increase sales 
  4.Focus on these regions where sales in low
  
-## 11. Assumptions & Limitations
 
-<!--
-  WHAT GOOD LOOKS LIKE:
-  Assumption: "Transaction records were assumed to be complete for all five regions.
-               No validation was performed against source system record counts."
-  Limitation: "The analysis cannot distinguish between returns initiated by
-               the customer vs. returns initiated by the business (e.g., rec
--->
 
-### Assumptions
-- [What did you treat as true without being able to verify?]
-- [What simplifications did you make for scope or feasibility?]
-- [What domain rules or definitions did you accept as given?]
-
-### Limitations
-- [What gaps exist in the data?]
-- [What analysis was out of scope but could affect interpretation?]
-- [What would a more rigorous version of this project include?]
-- [Are there known biases in the data source or collection method?]
-
-> *The goal here is pre-emptive Q&A. What would a thoughtful skeptic push back on? Document the answer here, before they ask.*
-
----
-
-## 12. Future Enhancement 
+## 10. Future Enhancement 
 
 -  [Enhancement 1 - integrate real time sales data to monitor business performance though a live dashboard]
 -  [Enhancement 2 - Build a recommendation system to suggest product based on customer purchase history]
@@ -205,7 +160,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 ---
 
-## 13. Conclusion
+## 11. Conclusion
 
 this project analyzed ecommerce sales data using excel, SQL, and power bi to understand business performance and customer purchasing patterns the data was cleaned, transformed, and analyzed to identify sales
 trends, product performance, regional performance, profitablility and customer behaviour. interactive dashboard and key performance metrics were created to support data-driven decision-making.
@@ -213,7 +168,7 @@ the insights and recommendations from this analysis can help improve slaes perfo
 
 ---
 
-## 14. Author
+## 12. Author
 
 **[Zeba Hajera]**
 [Data Analyst ]
