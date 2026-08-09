@@ -86,20 +86,16 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
   6. Output: "Summary report (PDF), processed CSV."
 
 
-## 6. Data Model & Schema
-
-  WHAT GOOD LOOKS LIKE (one row example):
-  | transaction_id | string | Unique identifier per sales transaction | TXN-00482 |
-  
+## 6. Data Model & Schema  
 
 ### Dataset / Table: `[name]`
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| `[order_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
-| `[customer_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
-| `[product_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
-| 
+| `[order_id]` | [string / Text ] | [Unique identifier assigned to each other] | [ORD1001] |
+| `[customer_id]` | [string / Text ] | [Unique Identifier assigned to each Customer] | [CUS501] |
+| `[product_id]` | [string / Text  ] | [Unique identifier to each Product] | [PROD205] |
+| `[category] ` | [String / Text_] | [String / Text_] |[]
 |
 |
 |
