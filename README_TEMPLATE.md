@@ -67,8 +67,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 │
 ├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
 │   ├── exploratory/ 
-│   ├── transformations/ 
-│   └── final/                #  presentation queries
+│   ├──                       #  presentation queries
 │
 ├── reports/                  # Final outputs: PDFs, Word docs
 │
@@ -101,6 +100,22 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 | `[customer_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
 | `[product_id]` | [string / int / date / float / ] | [What this field represents] | [Non-sensitive example] |
 | 
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
 |
 |
 
