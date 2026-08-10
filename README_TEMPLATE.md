@@ -44,7 +44,7 @@ the development of a interactive power bi dashboard. the analysis focuses on ide
 Source: Kaggle
 Name: ecommerce
 No. of Rows: 34502   
-No. of Columns: 16
+No. of Columns: 17
 Types: Transactional sales data containing customer details, Product info, order details, pricing, discount, payment mode, shipping info and regional sales.
 
 ### Tools & Technologies
