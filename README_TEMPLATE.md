@@ -92,35 +92,23 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 | Field Name | Data Type | Description | Example Value |
 |------------|-----------|-------------|---------------|
-| `[order_id]` | [string / Text ] | [Unique identifier assigned to each other] | [ORD1001] |
-| `[customer_id]` | [string / Text ] | [Unique Identifier assigned to each Customer] | [CUS501] |
-| `[product_id]` | [string / Text  ] | [Unique identifier to each Product] | [PROD205] |
-| `[category] ` | [String / Text_] | [String / Text_] |[]
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-
-
-
-
-
-
+|  [order_id] | [string / Text ] | [Unique identifier assigned to each other] | [ORD1001] |
+|  [customer_id] | [string / Text ] | [Unique Identifier assigned to each Customer] | [CUS501] |
+|  [product_id] | [string / Text  ] | [Unique identifier to each Product] | [PROD205] |
+|  [category]  | [String / Text_] | [Category or type of the product] |[Electronics_]
+|  [price] | [Decimal / Float_] | [Selling price of the product before applying discount_]
+|  [discount] | [Decimal / Float ] | [Discount applied to the product, usually represented as a percentage or amount_]
+|  [quantity] | [Integer_] | [Number of units purchased in the order_]
+|  [payment_method] | [string / Text ] | [Payment Method used by the Customers_]
+|  [order_date] | [Date_] | [Date When the Customer Placed order_]
+|  [delivery_time_days] | [Integer_] | [Number of Days taken to deliver the order.]
+|  [region] | [string / Text_] | [Geographic _]
+|  [returned] | [Boolean / string] | []
+|  [total_amount] | [Decimal / Float_] | []
+|  [shipping_codt] | [Decimal / Float_] | []
+|  [profit_margin] | [Decimal / Float_] | []
+|  [customer_age] |  [Integer_] | []
+|  [customer_gender] | [string / Text ] | []
 
 ## 7. Analysis & Metrics
 
