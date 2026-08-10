@@ -97,14 +97,14 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 |  [product_id] | [string / Text  ] | [Unique identifier to each Product.] | [PROD205] |
 |  [category]  | [String / Text_] | [Category or type of the product.] |[Electronics] |
 |  [Price] | [Decimal / Float] | [Selling Price of the Product before applying Discount.] | [499.99] |
-|  [discount] | [Decimal / Float ] | [Discount applied to the product, usually represented as a percentage or amount.] | [10.00_] |
+|  [discount] | [Decimal / Float ] | [Discount applied to the product, usually represented as a percentage or amount.] | [10.00] |
 |  [quantity] | [Integer_] | [Number of units purchased in the order.] | [3] |
-|  [payment_method] | [string / Text ] | [Payment Method used by the Customers.] | [Credit Card_] |
+|  [payment_method] | [string / Text ] | [Payment Method used by the Customers.] | [Credit Card] |
 |  [order_date] | [Date_] | [Date When the Customer Placed order.] | [2026-07-15_] |
 |  [delivery_time_days] | [Integer_] | [Number of Days taken to deliver the order.] | [4] |
-|  [region] | [string / Text_] | [Geographic region associated with the Customer/order.] | [South_] |
+|  [region] | [string / Text_] | [Geographic region associated with the Customer/order.] | [South] |
 |  [returned] | [Boolean / string] | [Indicates Whether the product/order was returned.] | [Yes] |
-|  [total_amount] | [Decimal / Float_] | [Total amount paid for the order after considering price, quantity and discount.] | [_1349.97] |
+|  [total_amount] | [Decimal / Float_] | [Total amount paid for the order after considering price, quantity and discount.] | [1349.97] |
 |  [shipping_codt] | [Decimal / Float_] | [Cost Charged or incurred for shipping the order.] | [50.00_] |
 |  [profit_margin] | [Decimal / Float_] | [Profit earned as a Percentage of the Total Sales amount.] | [18.50%] |
 |  [customer_age] |  [Integer_] | [Age of the Customer who placed the order.] |[20] |
