@@ -39,6 +39,7 @@ the development of a interactive power bi dashboard. the analysis focuses on ide
 
   the objective is to generate actionable business insights and recommendations that help improve revenue, profitability and overall business Decision making.
 
+---
 ## 3. Dataset Info & Tools
 
 Source: Kaggle
@@ -47,6 +48,7 @@ No. of Rows: 34502
 No. of Columns: 17
 Types: Transactional sales data containing customer details, Product info, order details, pricing, discount, payment mode, shipping info and regional sales.
 
+---
 ### Tools & Technologies
 Tool(s) Used 
 Excel, SQL, Power BI
@@ -55,7 +57,7 @@ Excel: Conducted initial data inspection and verified the dataset before analysi
 SQL: Queried the dataset, performed aggregations, analyzed sales, customers, Products, and Regional Sales.
 Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, and Business insights.
 
-
+---
 ## 4. Repository Structure
 
 
@@ -74,7 +76,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 │
 └── README.md                 # Project
 
-
+---
 ## 5. Project Workflow
   
   1. Source: Collected The ecommerce Dataset from Kaggle.
@@ -84,7 +86,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
   5. Analysis: "Developed Interactive Dashboards, and KPIS using Power BI."
   6. Output: "Summary report (PDF), processed CSV."
 
-
+---
 ## 6. Data Model & Schema  
 
 ### Dataset / Table: `[name]`
@@ -109,6 +111,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 |  [customer_age] |  [Integer_] | [Age of the Customer who placed the order.] |[20] |
 |  [customer_gender] | [string / Text ] | [Gender of the Customer.] | [Female] |
 
+---
 ## 7. Analysis & Metrics
 
 ### Analytical Approach
@@ -125,7 +128,8 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
  [Total Revenue] [ Profit Margin] [Total Sales by Region] [Monthly Sales Trend] [Yearly Sales trend] [Monthly profit] [Top 5 Category]
  [High Revenue product] [Quantity ordered] [Total amount by Category] [Max Delivery Day] [Highest Payment Mode]
  [Which day customers Orderes the Most]
-  
+
+ --- 
 ## 8. Key Insights
 
 Insight 1: [Total sales showed increasing in trend.]
@@ -140,7 +144,7 @@ Insight 5 [Some regions Generating low Revenue.]
 
 Insight 6 [Small Group of Repeated customers Contributed large portion of Total Revenue.]
 
-
+---
 ## 9. Recommendations
  
  1.Increase inventory in high selling categories and product
@@ -148,8 +152,7 @@ Insight 6 [Small Group of Repeated customers Contributed large portion of Total 
  3.Run marketing campaign to increase sales 
  4.Focus on these regions where sales in low
  
-
-
+---
 ## 10. Future Enhancement 
 
 -  [Enhancement 1 - integrate real time sales data to monitor business performance though a live dashboard]
