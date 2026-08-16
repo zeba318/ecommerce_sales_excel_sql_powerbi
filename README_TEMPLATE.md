@@ -172,7 +172,7 @@ the insights and recommendations from this analysis can help improve slaes perfo
 **[Zeba Hajera]**
 [Data Analyst ]
 
-- 🔗 [hhttps://www.linkedin.com/in/zeba-hajera-3a437a366?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- 🔗 [https://www.linkedin.com/in/zeba-hajera-3a437a366?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - 💼 [ ]
 - 📧 [zebahajera715@gmail.com]
 
