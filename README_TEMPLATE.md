@@ -66,8 +66,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 │   ├── processed/            # Cleaned and transformed data            
 │
 ├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
-│   ├── exploratory/ 
-│   ├──                       #  presentation queries
+│   ├── exploratory/          #  presentation queries
 │
 ├── reports/                  # Final outputs: PDFs, Word docs
 │
@@ -79,8 +78,8 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 ## 5. Project Workflow
   
   1. Source: Collected The ecommerce Dataset from Kaggle.
-  2. Ingestion: "Loaded into Excel performed data inspection, changed columns names and Data types (approx. 340,000 rows)."
-  3. Cleaning: "Performed Data Cleaning and analysis Business insights using SQL"
+  2. Ingestion: "Loaded into Excel performed data inspection, changed columns names and Data types."
+  3. Cleaning: "Performed Data Cleaning and analysis Business insights using SQL".
   4. Transformation: "Created Aggregation queries, Group by queries to Transformed data and Find Business Insights."
   5. Analysis: "Developed Interactive Dashboards, and KPIS using Power BI."
   6. Output: "Summary report (PDF), processed CSV."
@@ -114,31 +113,32 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 
 ### Analytical Approach
 
-1.[Analyzed overall sales and Revenue trends]
-2.[Identified Top Selling product Categories]
-3.[Compared Sales performance across different Region]
-4.[Identify Monthly and yearly sales trends]
-5.[Examined monthly and yearly sales trends_]
-6.[Compared payment methods and their usage_]
+1.[Analyzed overall sales and Revenue trends.]
+2.[Identified Top Selling product Categories.]
+3.[Compared Sales performance across different Region.]
+4.[Identify Monthly and yearly sales trends.]
+5.[Examined monthly and yearly sales trends.]
+6.[Compared payment methods and their usage.]
 
 ### Key Metrics Defined
 
-- [Total Revenue, Profit Margin, Total Sales by Region, Monthly Sales Trend, Yearly Sales trend, Monthly profit, Top 5 Category, High Revenue product, Quantity ordered, Total amount by Category,
-- Max Delivery Day,Highest Payment Mode,Which day customers Orderes the Most]
+ [Total Revenue] [ Profit Margin] [Total Sales by Region] [Monthly Sales Trend] [Yearly Sales trend] [Monthly profit] [Top 5 Category]
+ [High Revenue product] [Quantity ordered] [Total amount by Category] [Max Delivery Day] [Highest Payment Mode]
+ [Which day customers Orderes the Most]
   
 ## 8. Key Insights
 
-**Insight 1: [Total sales showed increasing in trend]
+Insight 1: [Total sales showed increasing in trend.]
 
-**Insight 2: [A few category and product generating high Revenue]
+Insight 2: [A few category and product generating high Revenue.]
 
-**Insight 3: [Monthly Sales varied, Indicating seasonal demand patterns.]
+Insight 3: [Monthly Sales varied, Indicating seasonal demand patterns.]
 
-**Insight 4 [Certain Payment methods were preferred by most customers.]
+Insight 4 [Certain Payment methods were preferred by most customers.]
 
-**Insight 5 [Some regions Generating low Revenue.]
+Insight 5 [Some regions Generating low Revenue.]
 
-**Insight 6 [Small Group of Repeated customers Contributed large portion of Total Revenue__]
+Insight 6 [Small Group of Repeated customers Contributed large portion of Total Revenue.]
 
 
 ## 9. Recommendations
@@ -173,7 +173,7 @@ the insights and recommendations from this analysis can help improve slaes perfo
 [Data Analyst ]
 
 - 🔗 [https://www.linkedin.com/in/zeba-hajera-3a437a366?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- 💼 [ ]
+- 💼 [https://github.com/zeba318 ]
 - 📧 [zebahajera715@gmail.com]
 
 ---
