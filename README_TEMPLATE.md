@@ -101,7 +101,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 |  [discount] | [Decimal / Float] | [Discount applied to the product, usually represented as a percentage or amount.] | [10.00] |
 |  [quantity] | [Integer] | [Number of units purchased in the order.] | [3] |
 |  [payment_method] | [string / Text] | [Payment Method used by the Customers.] | [Credit Card] |
-|  [order_date] | [Date_] | [Date When the Customer Placed order.] | [2026-07-15] |
+|  [order_date] | [Date] | [Date When the Customer Placed order.] | [2026-07-15] |
 |  [delivery_time_days] | [Integer] | [Number of Days taken to deliver the order.] | [4] |
 |  [region] | [string / Text] | [Geographic region associated with the Customer/order.] | [South] |
 |  [returned] | [Boolean / string] | [Indicates Whether the product/order was returned.] | [Yes] |
