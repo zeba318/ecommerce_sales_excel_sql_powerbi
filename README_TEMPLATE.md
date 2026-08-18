@@ -30,14 +30,13 @@
 ---
 
 ## 1. Project Overview
-this project Analyze an ecommerce sales dataset to evaluate sales performance, customer purchasing behaviour, and product Profitablility. the Project Involves data cleaning using excel,sql and 
-the development of a interactive power bi dashboard. the analysis focuses on identify sales trends, top performing products , customer segment, payment methods and regional performance. 
+this project Analyze an ecommerce sales dataset to evaluate sales performance, customer purchasing behaviour, and product Profitablility. the Project Involves data cleaning using excel,sql and the development of a interactive power bi dashboard. the analysis focuses on identify sales trends, top performing products , customer segment, payment methods and regional performance. 
 
 ---
 
 ## 2. Objectives
 
-  the objective is to generate actionable business insights and recommendations that help improve revenue, profitability and overall business Decision making.
+ the objective is to generate actionable business insights and recommendations that help improve revenue, profitability and overall business Decision making.
 
 ---
 ## 3. Dataset Info & Tools
@@ -68,7 +67,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 │   ├── processed/            # Cleaned and transformed data            
 │
 ├── queries/                  
-| |exploratory/               # presentation queries
+| |transformation/              # presentation queries
 |                             
 ├── reports/                  # Final outputs: PDFs, Word docs
 │
