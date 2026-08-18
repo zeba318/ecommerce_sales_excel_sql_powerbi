@@ -67,9 +67,9 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 │   ├── raw/                  # Original, unmodified source data - never edited
 │   ├── processed/            # Cleaned and transformed data            
 │
-├── queries/                  # SQL files (retain this folder for SQL-heavy projects)
-│   ├── exploratory/          #  presentation queries
-│
+├── queries/                  
+| |exploratory/               # presentation queries
+|                             
 ├── reports/                  # Final outputs: PDFs, Word docs
 │
 ├── visuals/                  # Exported charts, dashboard screenshots 
@@ -95,21 +95,21 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 |------------|-----------|-------------|---------------|
 |  [order_id] | [string / Text ] | [Unique identifier assigned to each other.] | [ORD1001] |
 |  [customer_id] | [string / Text ] | [Unique Identifier assigned to each Customer.] | [CUS501] |
-|  [product_id] | [string / Text  ] | [Unique identifier to each Product.] | [PROD205] |
-|  [category]  | [String / Text_] | [Category or type of the product.] |[Electronics] |
+|  [product_id] | [string / Text ] | [Unique identifier to each Product.] | [PROD205] |
+|  [category]  | [String / Text] | [Category or type of the product.] |[Electronics] |
 |  [Price] | [Decimal / Float] | [Selling Price of the Product before applying Discount.] | [499.99] |
-|  [discount] | [Decimal / Float ] | [Discount applied to the product, usually represented as a percentage or amount.] | [10.00] |
-|  [quantity] | [Integer_] | [Number of units purchased in the order.] | [3] |
-|  [payment_method] | [string / Text ] | [Payment Method used by the Customers.] | [Credit Card] |
+|  [discount] | [Decimal / Float] | [Discount applied to the product, usually represented as a percentage or amount.] | [10.00] |
+|  [quantity] | [Integer] | [Number of units purchased in the order.] | [3] |
+|  [payment_method] | [string / Text] | [Payment Method used by the Customers.] | [Credit Card] |
 |  [order_date] | [Date_] | [Date When the Customer Placed order.] | [2026-07-15] |
-|  [delivery_time_days] | [Integer_] | [Number of Days taken to deliver the order.] | [4] |
-|  [region] | [string / Text_] | [Geographic region associated with the Customer/order.] | [South] |
+|  [delivery_time_days] | [Integer] | [Number of Days taken to deliver the order.] | [4] |
+|  [region] | [string / Text] | [Geographic region associated with the Customer/order.] | [South] |
 |  [returned] | [Boolean / string] | [Indicates Whether the product/order was returned.] | [Yes] |
-|  [total_amount] | [Decimal / Float_] | [Total amount paid for the order after considering price, quantity and discount.] | [1349.97] |
-|  [shipping_codt] | [Decimal / Float_] | [Cost Charged or incurred for shipping the order.] | [50.00] |
-|  [profit_margin] | [Decimal / Float_] | [Profit earned as a Percentage of the Total Sales amount.] | [18.50%] |
-|  [customer_age] |  [Integer_] | [Age of the Customer who placed the order.] |[20] |
-|  [customer_gender] | [string / Text ] | [Gender of the Customer.] | [Female] |
+|  [total_amount] | [Decimal / Float] | [Total amount paid for the order after considering price, quantity and discount.] | [1349.97] |
+|  [shipping_codt] | [Decimal / Float] | [Cost Charged or incurred for shipping the order.] | [50.00] |
+|  [profit_margin] | [Decimal / Float] | [Profit earned as a Percentage of the Total Sales amount.] | [18.50%] |
+|  [customer_age] |  [Integer] | [Age of the Customer who placed the order.] |[20] |
+|  [customer_gender] | [string / Text] | [Gender of the Customer.] | [Female] |
 
 ---
 ## 7. Analysis & Metrics
