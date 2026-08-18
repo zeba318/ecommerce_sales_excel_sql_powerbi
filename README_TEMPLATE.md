@@ -67,7 +67,7 @@ Power BI: Developed an interactive Dashboard to Visualize KPIS, sales trends, an
 │   ├── processed/            # Cleaned and transformed data            
 │
 ├── queries/                  
-| |transformation/              # presentation queries
+|  |__transformation/              # presentation queries
 |                             
 ├── reports/                  # Final outputs: PDFs, Word docs
 │
